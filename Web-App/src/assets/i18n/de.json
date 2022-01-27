@@ -1,0 +1,14 @@
+{
+  "navigation": {
+    "services": "Leistungen",
+    "contact": "Kontakt",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum"
+  },
+  "languagePicker": {
+    "selectToolTip": "Sprache ändern"
+  },
+  "themePicker": {
+    "selectToolTip": "Theme ändern"
+  }
+}
